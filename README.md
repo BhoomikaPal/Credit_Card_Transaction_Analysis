@@ -23,7 +23,8 @@ Analyzing transactional data from a credit card company for the years 2022 and 2
 ## Output
 
 ![Metrics_per_Date_hour](https://github.com/user-attachments/assets/6a92fe42-af7a-4ce1-9f17-5d5f90fe0104)
-![Highest_transaction](https://github.com/user-attachments/assets/2d2706af-5e37-4701-bf7e-eecba2700d1b)
+![Highest_transaction](https://github.com/user-attachments/assets/36c1d356-614c-4dc8-b66f-030083025b55)
+
 
 ## Insights (As per Sample Data)
 
