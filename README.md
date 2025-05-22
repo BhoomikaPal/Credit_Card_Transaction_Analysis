@@ -40,8 +40,8 @@ Analyzing transactional data from a credit card company for the years 2022 and 2
 ![Highest_transaction_by_hour_line_graph](https://github.com/user-attachments/assets/37bb8f44-3c6f-480d-9945-35f9efe79be3)
 
 ## Future Scope 
-- Customer Segmentation: To personalize marketing, increase card usage, and improve retention based on behavior.
-- Cross-Sell/Upsell Campaigns: To promote relevant credit card products based on usage behavior.
-- Behavior-Based Personalization: To increase engagement by sending reminders or offers when a user typically transacts.
-- Dashboard for Business Leaders: To help decision-makers track performance.
-- Spend Forecasting (Hourly/Daily): To anticipate high-volume periods and optimize campaign timing.
+- **Customer Segmentation**: To personalize marketing, increase card usage, and improve retention based on behavior.
+- **Cross-Sell/Upsell Campaigns**: To promote relevant credit card products based on usage behavior.
+- **Behavior-Based Personalization**: To increase engagement by sending reminders or offers when a user typically transacts.
+- **Dashboard for Business Leaders**: To help decision-makers track performance.
+- **Spend Forecasting (Hourly/Daily)**: To anticipate high-volume periods and optimize campaign timing.
