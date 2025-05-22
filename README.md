@@ -9,7 +9,7 @@ Analyzing transactional data from a credit card company for the years 2022 and 2
 
 ## Tasks
 
--**`Create a SQL and Python code to`**:
+**`Create a SQL and Python code to`**:
 - a) Calculate: total_transactions, unique_users and total_transaction_amount for every date and hour combination.
 - b) Calculate hour with highest transaction_amount for every date
 
