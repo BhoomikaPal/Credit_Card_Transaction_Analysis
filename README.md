@@ -13,12 +13,6 @@ Analyzing transactional data from a credit card company for the years 2022 and 2
 - a) Calculate: total_transactions, unique_users and total_transaction_amount for every date and hour combination.
 - b) Calculate hour with highest transaction_amount for every date
 
-## How to Navigate
-
-- **`README.md`**: You're here! Start here to understand the purpose, tasks, and Insights.
-- **`sample_transactions_data.csv`** *(optional)*: Contains sample transaction data (date, user, transaction ID, amount).
-- **`SQL_queries.sql`**: SQL code to compute metrics per hour and identify peak transaction hours per day.
-- **`transaction_analysis.py`**: Python script to perform the same analysis programmatically.
 
 ## Output
 
